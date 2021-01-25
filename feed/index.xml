@@ -10,7 +10,7 @@
 <channel>
 	<title>Rino</title>
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://barrrtek.github.io/Rinodeboer-course/</link>
+	<link>https://barrrtek.github.io/Rinodeboer-course/</link>
 	<description>Rino portfolio</description>
 	<lastBuildDate>Wed, 18 Nov 2020 21:24:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>https://https://barrrtek.github.io/Rinodeboer-course/wp-content/uploads/2020/11/cropped-fav_rdb-32x32.png</url>
+	<url>https://barrrtek.github.io/Rinodeboer-course/wp-content/uploads/2020/11/cropped-fav_rdb-32x32.png</url>
 	<title>Rino</title>
-	<link>https://https://barrrtek.github.io/Rinodeboer-course/</link>
+	<link>https://barrrtek.github.io/Rinodeboer-course/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://https://barrrtek.github.io/Rinodeboer-course/hello-world/</link>
-					<comments>https://https://barrrtek.github.io/Rinodeboer-course/hello-world/#comments</comments>
+		<link>https://barrrtek.github.io/Rinodeboer-course/hello-world/</link>
+					<comments>https://barrrtek.github.io/Rinodeboer-course/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Rino]]></dc:creator>
 		<pubDate>Wed, 18 Nov 2020 21:24:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://barrrtek.github.io/Rinodeboer-course/?p=1</guid>
+		<guid isPermaLink="false">https://barrrtek.github.io/Rinodeboer-course/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://barrrtek.github.io/Rinodeboer-course/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://barrrtek.github.io/Rinodeboer-course/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
